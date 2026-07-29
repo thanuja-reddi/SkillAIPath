@@ -187,3 +187,14 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ## Business Insights
+# MAGIC
+# MAGIC - The loan portfolio consists of **5,000 loans** with a total value of **₹203.52 crores**.
+# MAGIC - **3,077 loans (61.54%)** are active, indicating that most loans are currently performing.
+# MAGIC - **1,084 loans** are either overdue or defaulted, requiring immediate attention.
+# MAGIC - The **default rate is 14.02%**, which falls under the **HIGH RISK** category based on the defined business thresholds.
+# MAGIC - The company currently has **₹40.04 crores of at-risk capital**, representing loans that are overdue or defaulted.
+
+# COMMAND ----------
+
