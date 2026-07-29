@@ -65,6 +65,17 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ## Business Insights
+# MAGIC
+# MAGIC - The company serves **2,433 unique customers** with a total of **5,000 loans**.
+# MAGIC - The total portfolio value is **₹203.52 crores**, indicating a large lending portfolio.
+# MAGIC - The average loan size is **₹4.07 lakhs**, suggesting that the portfolio mainly consists of medium-sized loans.
+# MAGIC - On average, each customer has **2.06 loans** (5,000 ÷ 2,433), indicating that many customers have multiple loans.
+# MAGIC - The portfolio is diversified across **2,433 customers**, but customers with multiple loans should be monitored to reduce concentration risk.
+
+# COMMAND ----------
+
 
 
 # COMMAND ----------
