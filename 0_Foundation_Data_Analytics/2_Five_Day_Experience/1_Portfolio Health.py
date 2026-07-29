@@ -48,7 +48,6 @@
 # COMMAND ----------
 
 
-
 # COMMAND ----------
 
 # DBTITLE 1,Portfolio Scale Metrics
