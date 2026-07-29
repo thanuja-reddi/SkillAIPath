@@ -138,6 +138,22 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ### Key Business Insights
+# MAGIC
+# MAGIC - The total loan portfolio is valued at **₹203.52 crores**.
+# MAGIC - **Active loans contribute ₹130.97 crores**, representing the largest share of the portfolio and generating ongoing revenue.
+# MAGIC - **Closed loans account for ₹32.51 crores**, reflecting loans that have been successfully repaid.
+# MAGIC - **Defaulted loans amount to ₹24.38 crores**, representing potential credit losses.
+# MAGIC - **Overdue loans total ₹15.66 crores** and require immediate follow-up to prevent them from becoming defaults.
+# MAGIC - The **total at-risk capital is ₹40.04 crores** (Defaulted + Overdue), which should be considered for provisioning and risk management.
+# MAGIC
+# MAGIC ### Recommendation
+# MAGIC
+# MAGIC The company should prioritize reducing **₹40.04 crores of at-risk capital** by strengthening recovery efforts for overdue loans and improving collection strategies for defaulted accounts. Lowering the at-risk portfolio will improve financial stability and reduce future provisioning requirements.
+
+# COMMAND ----------
+
 
 
 # COMMAND ----------
