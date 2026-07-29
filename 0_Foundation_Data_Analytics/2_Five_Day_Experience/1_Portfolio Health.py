@@ -105,6 +105,21 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC ### Key Business Insights
+# MAGIC
+# MAGIC - Small loans account for the largest portion of the portfolio with **2,682 loans**.
+# MAGIC - The **Small loan segment has the highest default rate (16.78%)**, making it the riskiest category.
+# MAGIC - Medium and Large loan segments have lower default rates of **11.22%** and **10.43%**, respectively.
+# MAGIC - Although Large loans involve higher loan amounts, they have a lower default rate than Small loans.
+# MAGIC - The underwriting team should strengthen credit assessment and monitoring for Small loans to reduce future defaults.
+# MAGIC
+# MAGIC ### Recommendation
+# MAGIC
+# MAGIC If the company approves **100 Small loans**, approximately **17 loans** may default based on current portfolio performance. In comparison, approving **100 Large loans** would result in approximately **10 defaults**. Therefore, the **Small loan segment requires stricter underwriting policies and enhanced risk monitoring**.
+
+# COMMAND ----------
+
 
 
 # COMMAND ----------
