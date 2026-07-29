@@ -198,3 +198,25 @@
 
 # COMMAND ----------
 
+# MAGIC %md
+# MAGIC **Current Portfolio Status:** **HIGH RISK**
+# MAGIC
+# MAGIC ## Final Recommendation
+# MAGIC
+# MAGIC **Recommendation:** **Reduce the proposed ₹50 crore lending budget until portfolio performance improves.**
+# MAGIC
+# MAGIC ### Reason
+# MAGIC
+# MAGIC - The portfolio's **14.02% default rate** is classified as **HIGH RISK**.
+# MAGIC - **₹40.04 crores** of capital is already at risk due to overdue and defaulted loans.
+# MAGIC - Before expanding lending, the company should:
+# MAGIC   - Strengthen credit assessment and underwriting.
+# MAGIC   - Improve recovery efforts for overdue and defaulted loans.
+# MAGIC   - Reduce the default rate before approving significant lending expansion.
+# MAGIC
+# MAGIC ## Conclusion
+# MAGIC
+# MAGIC The current portfolio shows a strong base of active loans, but the level of defaults and at-risk capital indicates elevated credit risk. A cautious lending strategy should be adopted until portfolio health improves.
+
+# COMMAND ----------
+
