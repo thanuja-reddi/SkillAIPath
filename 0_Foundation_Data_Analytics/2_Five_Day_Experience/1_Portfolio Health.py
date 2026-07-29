@@ -1,4 +1,8 @@
 # Databricks notebook source
+# /// script
+# [tool.databricks.environment]
+# environment_version = "5"
+# ///
 # DBTITLE 1,Portfolio Health Analysis
 # MAGIC %md
 # MAGIC # Portfolio Health Analysis
@@ -30,6 +34,16 @@
 # MAGIC GROUP BY loan_status
 # MAGIC ORDER BY loan_count DESC;
 # MAGIC
+
+# COMMAND ----------
+
+# MAGIC %md
+# MAGIC ### Business Insights
+# MAGIC
+# MAGIC - Active loans account for **61.54%** of the portfolio, indicating that the majority of loans are performing.
+# MAGIC - Defaulted loans represent **14.02%** of all loans, while overdue loans account for **7.66%**, highlighting areas that require close monitoring.
+# MAGIC - In terms of value, Active loans contribute **₹130.97 crores**, whereas Defaulted and Overdue loans together represent **₹40.04 crores** of at-risk capital.
+# MAGIC - Although most loans are active by volume, the amount tied up in defaulted and overdue loans is significant and requires effective risk management and recovery efforts.
 
 # COMMAND ----------
 
